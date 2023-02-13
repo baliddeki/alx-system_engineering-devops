@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | tee /etc/passwd /etc/hosts
+cat | tee /etc/passwd /etc/hosts
